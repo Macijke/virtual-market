@@ -1,8 +1,9 @@
+import HeaderComponent from "./components/HeaderComponent.tsx";
 
 function App() {
   return (
-      <h1>Hello World!</h1>
-      
+      <HeaderComponent/>
+
   );
 }
 
